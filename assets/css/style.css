@@ -2231,7 +2231,7 @@ a:hover {
 }
 
 .home-slide {
-  background-image: url(""../images/home-slider/slider 1.jpg");
+  background-image: url("../images/home-slider/slider 1.jpg");
   background-position: 50% 50%;
   background-size: cover;
 }
