@@ -2452,7 +2452,7 @@ a:hover {
 
 .footer {
   padding-top: 80px;
-  background-color: #f0f01e;
+  background-color: red;
   font-size: 13px;
 }
 
@@ -2854,7 +2854,7 @@ a:hover {
 }
 
 .link.footer-link {
-  color: #000;
+  color: #fff;
 }
 
 .link.footer-link:hover {
@@ -2866,7 +2866,7 @@ a:hover {
 }
 
 .link.bottom-footer-link:hover {
-  color: #fff;
+  color: #fe0;
 }
 
 .link.white {
