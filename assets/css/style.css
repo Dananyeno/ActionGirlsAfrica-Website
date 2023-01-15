@@ -2953,7 +2953,7 @@ a:hover {
   padding-top: 30px;
   padding-bottom: 25px;
   background-color: #000;
-  color: #ddd;
+  color: #fff;
 }
 
 .bottom-footer-col-right {
@@ -2962,7 +2962,7 @@ a:hover {
 
 .bottom-footer-text {
   font-family: Lato, sans-serif;
-  color: #6d6d6d;
+  color: #fff;
 }
 
 .newsletter-form {
@@ -3679,7 +3679,7 @@ a:hover {
 }
 
 .bottom-footer-link:hover {
-  color: #fff;
+  color: #fe0;
 }
 
 @media (max-width: 991px) {
